@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @leadpointer
-- 👀 I’m interested in learning web development
+- 👋 Hi, I’m Tanvi Sharma
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Computer applications.
 <!---
 leadpointer/leadpointer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
